@@ -1,0 +1,22 @@
+.Bio {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.FullWidthBio {
+  margin-bottom: 2rem;
+}
+
+.FullWidthBioBlockQuote {
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.Bio img {
+  border-radius: 50%;
+  flex-shrink: 0;
+  height: 5.5rem;
+  margin-bottom: 0;
+  margin-right: 0.875rem;
+  width: 5.5rem;
+}
